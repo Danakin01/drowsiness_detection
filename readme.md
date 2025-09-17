@@ -88,16 +88,6 @@ Close your eyes for ~2 seconds to trigger the drowsiness alert (red text, beep, 
 Press q to quit.
 
 
-📂 Project Structure
-drowsiness_detection/
-├── .gitattributes                    # Git LFS configuration
-├── .gitignore                        # Ignored files (e.g., *.whl)
-├── danger.png                        # Warning icon for drowsiness
-├── Drowsiness_Detection.py           # Main script
-├── LICENSE                           # License file (MIT)
-├── readme.md                         # Project documentation
-├── models/
-│   └── shape_predictor_68_face_landmarks.dat  # dlib model
 
 
 🛠️ Dependencies
