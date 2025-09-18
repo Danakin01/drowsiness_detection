@@ -51,4 +51,19 @@ python -m venv venv
 
 # Install dependencies
 pip install opencv-python imutils scipy
+```
+## 📖 Installing dlib (Python 3.12 on Windows)
 
+1. Download wheel:  
+   [dlib-19.24.2-cp312-cp312-win_amd64.whl](https://pypi.org/project/dlib/#files)  
+
+2. Install with:  
+```bash
+pip install dlib-19.24.2-cp312-cp312-win_amd64.whl
+```
+
+🚀 Usage
+
+Run the project:
+
+python Drowsiness_Detection.py
